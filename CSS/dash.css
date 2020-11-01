@@ -1,0 +1,10 @@
+body{
+    background-color: gainsboro;
+}
+.custom:hover{
+    background-color: rgb(176, 230, 247);
+}
+.custom-shadow{
+    box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.2);
+    border: 0px;
+}
